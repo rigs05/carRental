@@ -10,7 +10,7 @@ Instructions:
 
 -> "localhost/crent/index.php" OR simply "localhost/crent" will open the login page
 
--> Replicate the "sql" file in your PHPMyAdmin to use it.
+-> Replicate the "agency.sql" file in your PHPMyAdmin to use it.
 
 
 Folder Information:
